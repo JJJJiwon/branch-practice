@@ -5,7 +5,19 @@
 ## Prerequisites
 
 ## How to start
+'''shell
+$ git clone https;//github.com/{username}/{reponame}.git
+$ cd {reponame}
+
+$ vi README.md
+
+$
+
+$
+'''
 
 ## Installation
 
 ## Features
+
+## Creadits
